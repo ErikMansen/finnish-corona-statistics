@@ -125,7 +125,7 @@
     "infected_survival_percentage": "Överlevnadsgraden hos de infekterade",
     "countries_listed": "Listade länder",
     "countries_listed_subtitle": "De gröna pilarna representerar länder där värdet är högre än i Finland. De röda länderna med mindre värde.",
-    "infected": "infekterade",
+    "infected": "Infekterade",
     "recovered": "Återhämtade",
     "deaths": "Döda",
     "death_cases": "Dödsfall",
